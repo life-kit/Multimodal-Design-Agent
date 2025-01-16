@@ -24,13 +24,13 @@ A cutting-edge research and development project for creating a seamless workflow
   - Derive extended designs from outputs
 
 ## Demo 演示
-![Star History](https://api.star-history.com/svg?repos=life-kit/multimodal-design-agent&type=Date)
+![Star History](https://star-history.com/embed?repos=life-kit/multimodal-design-agent&type=Date)
 
 ## Blog & Updates 博客与更新
-Follow our latest updates and insights on our [Blog]().
+Follow our latest updates and insights on our [Blog](https://your-blog-link.com).
 
 ## Documentation 文档
-Detailed documentation is available on [Overleaf]().
+Detailed documentation is available on [Overleaf](https://your-overleaf-link.com).
 
 ## Quick Start 快速开始
 
@@ -83,4 +83,3 @@ If you have any questions or feedback, feel free to open an issue or reach out v
 ---
 
 **Happy Designing! 设计愉快！**
-
