@@ -1,4 +1,5 @@
 # Multimodal Design Agent
+![Star History](https://star-history.com/embed?repos=life-kit/multimodal-design-agent&type=Date)
 
 A cutting-edge research and development project for creating a seamless workflow that integrates **text** and **image inputs** to generate and customize design outputs. This project leverages multimodal models and strategies to enhance creativity and productivity in design.
 
@@ -24,7 +25,6 @@ A cutting-edge research and development project for creating a seamless workflow
   - Derive extended designs from outputs
 
 ## Demo 演示
-![Star History](https://star-history.com/embed?repos=life-kit/multimodal-design-agent&type=Date)
 
 ## Blog & Updates 博客与更新
 Follow our latest updates and insights on our [Blog](https://your-blog-link.com).
